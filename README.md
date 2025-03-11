@@ -7,7 +7,7 @@ This project provides an in-depth analysis of sales data from Olist, a Brazilian
 ## 🏠 Home Page
 The **Home Page** provides an overview of the entire dashboard, giving a snapshot of the key sales metrics and trends. This allows stakeholders to quickly understand the business performance at a glance.
 
-![Home](pictures/Home.png)
+![Home](https://github.com/hassanatta12/Olist-Sales-Analysis/blob/main/Pictures/Home.png)
 
 ## 📊 Overview Page
 The **Overview Page** contains a detailed breakdown of sales performance, including revenue trends, order status distribution, and general marketplace insights. This section helps in understanding how well the platform is performing overall.
