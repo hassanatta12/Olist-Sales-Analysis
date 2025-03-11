@@ -12,7 +12,7 @@ The **Home Page** provides an overview of the entire dashboard, giving a snapsho
 ## 📊 Overview Page
 The **Overview Page** contains a detailed breakdown of sales performance, including revenue trends, order status distribution, and general marketplace insights. This section helps in understanding how well the platform is performing overall.
 
-![Overview](pictures/Overview.png)
+![Overview](https://github.com/hassanatta12/Olist-Sales-Analysis/blob/main/Pictures/Overview.png)
 
 ## 🎯 Objectives
 - Perform **data cleaning** and handle missing values.
@@ -33,7 +33,7 @@ The **Overview Page** contains a detailed breakdown of sales performance, includ
 ## 📦 Order Breakdown Page
 The **Order Breakdown Page** focuses on analyzing order statuses, payment methods, and customer purchase behaviors. This section is crucial for identifying common issues in order processing and customer preferences.
 
-![Order Breakdown](pictures/order%20brekdown.png)
+![Order Breakdown](https://github.com/hassanatta12/Olist-Sales-Analysis/blob/main/Pictures/order%20brekdown.png)
 
 ## 🛠️ Tech Stack & Tools
 - **Programming Language:** Python
@@ -44,7 +44,7 @@ The **Order Breakdown Page** focuses on analyzing order statuses, payment method
 ## 🚚 Delivery Insights Page
 The **Delivery Insights Page** examines shipping times, delays, and geographical distribution of deliveries. It helps in optimizing logistics and enhancing customer satisfaction.
 
-![Delivery Insights](pictures/Delivery%20Insights.png)
+![Delivery Insights](Z)
 
 ## 📊 Analysis & Insights
 ### 🛒 Sales & Revenue Trends
@@ -60,7 +60,7 @@ The **Delivery Insights Page** examines shipping times, delays, and geographical
 ## 💰 Profitability Analysis Page
 The **Profitability Analysis Page** focuses on revenue versus cost evaluation, profit margins, and seller performance analysis. This section is essential for business strategy and financial decision-making.
 
-![Profitability Analysis](pictures/Profitability%20Analysis.png)
+![Profitability Analysis](https://github.com/hassanatta12/Olist-Sales-Analysis/blob/main/Pictures/Profitability%20Analysis.png)
 
 ## 👨‍💻 Author
 - **Hassan Atta**
