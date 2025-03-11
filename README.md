@@ -44,7 +44,7 @@ The **Order Breakdown Page** focuses on analyzing order statuses, payment method
 ## 🚚 Delivery Insights Page
 The **Delivery Insights Page** examines shipping times, delays, and geographical distribution of deliveries. It helps in optimizing logistics and enhancing customer satisfaction.
 
-![Delivery Insights](Z)
+![Delivery Insights](https://github.com/hassanatta12/Olist-Sales-Analysis/blob/main/Pictures/Delivery%20Insights.png)
 
 ## 📊 Analysis & Insights
 ### 🛒 Sales & Revenue Trends
