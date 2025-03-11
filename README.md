@@ -65,7 +65,6 @@ The **Profitability Analysis Page** focuses on revenue versus cost evaluation, p
 ## 👨‍💻 Author
 - **Hassan Atta**
 - **LinkedIn:** https://www.linkedin.com/in/hassan-atta-06bb46228/
-- **GitHub:** Your Repository
 
 📢 If you find this project useful, feel free to ⭐ the repository!
 
